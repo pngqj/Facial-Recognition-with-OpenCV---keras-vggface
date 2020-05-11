@@ -1,3 +1,6 @@
 env
+ASE
 train_model/QJ/*
+train_model/jason/*
+train_model/phone/*
 train_model/saved_model.hdf
